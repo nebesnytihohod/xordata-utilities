@@ -1,0 +1,4 @@
+{
+    "name_res_file": "result.txt",
+    "chunk_size": [1, "MB"]
+}
